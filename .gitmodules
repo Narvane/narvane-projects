@@ -4,3 +4,6 @@
 [submodule "defined_projects/pandora-client"]
 	path = defined_projects/pandora-client
 	url = git@github.com:Narvane/pandora-client.git
+[submodule "defined_projects/narvane-hub"]
+	path = defined_projects/narvane-hub
+	url = git@github.com:Narvane/narvane-hub.git
